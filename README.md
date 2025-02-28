@@ -1,4 +1,4 @@
-### Olá, eu sou o Codebreaker. Um DEV autodidata.
+### Olá, eu sou o Codebreaker.
 
 ![Skill](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 )
@@ -26,4 +26,4 @@
 <img align="center" alt ="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-### Estudante de Engenharia de Software pela UNISAGRADO Bauru
+### Estudante de Engenharia de Software pela UNISAGRADO
